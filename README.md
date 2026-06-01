@@ -93,18 +93,14 @@ const basim = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/basimalkareem">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=basimalkareem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/basimalkareem">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basimalkareem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=basimalkareem&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</div>
+| Metric | Details |
+|:-------|:--------|
+| 💼 **Experience** | 6+ years of professional frontend development |
+| 🏗️ **Projects Built** | 5+ enterprise Angular SPAs · 3+ Next.js apps · 3+ responsive websites |
+| 🔗 **API Integrations** | 10+ third-party REST APIs & GraphQL endpoints |
+| ✅ **Test Coverage** | Maintained 80%+ coverage with Jest, Jasmine & Karma |
+| ⚡ **Performance** | Improved Google Lighthouse scores by 30% |
+| 🌐 **Cross-Browser** | Resolved 50+ UI issues across 5+ browsers & devices |
 
 ---
 
@@ -116,11 +112,17 @@ const basim = {
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophies & Highlights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basimalkareem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-</div>
+| 🥇 | Milestone | Impact |
+|:--:|:----------|:-------|
+| 🚀 | **Lighthouse Boost** | +30% performance score via Core Web Vitals & SSR |
+| 💳 | **Payment Automation** | 60% reduction in manual billing via Stripe |
+| 🧪 | **Test Champion** | 80%+ code coverage across 3+ projects |
+| 🔌 | **API Scale** | 10+ REST & GraphQL integrations |
+| 🐛 | **Bug Crusher** | 50+ cross-browser UI issues resolved |
+| 🏗️ | **Architecture** | Modular SPAs with lazy loading & reusable component libraries |
+| 🔐 | **Auth Expert** | JWT + OAuth 2.0 secure flows across multiple enterprise apps |
 
 ---
 
@@ -176,22 +178,6 @@ const basim = {
 | **Enterprise Angular SPA** | Angular · NgRx · RxJS · REST API | Modular architecture with lazy loading; 30% Lighthouse score improvement |
 | **Next.js E-Commerce Platform** | Next.js · Stripe · Strapi CMS · OAuth 2.0 | SSR/SSG, Stripe payments, Open Graph SEO, JWT auth |
 | **Employee Management Dashboard** | React · JavaScript · Stripe | 5+ modules, 10+ real-time analytics metrics, 60% reduction in manual billing |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:-----------:|:-------:|
-| 📈 | **Lighthouse Performance Boost** | Improved scores by **30%** through Core Web Vitals, SSR & lazy loading |
-| 💳 | **Payment Automation** | Cut manual payment handling by **60%** via Stripe integration |
-| ✅ | **Test Coverage Champion** | Maintained **80%+** unit & integration test coverage with Jest, Jasmine & Karma |
-| 🔌 | **API Integration Scale** | Integrated **10+ third-party REST APIs** and GraphQL endpoints across projects |
-| 🖥️ | **Cross-Browser Mastery** | Resolved **50+ UI bugs** across 5+ browsers and device types |
 
 </div>
 
